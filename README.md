@@ -1,4 +1,4 @@
-# SEIR-Foundations
+# SEIR-Foundations-Homeworks
 ## Systems Engineering and Infrastructure Integration
 ### Applied Cloud & Platform Engineering
 *A 1-Year Applied Program in Cloud, Automation, and Operational Judgment*

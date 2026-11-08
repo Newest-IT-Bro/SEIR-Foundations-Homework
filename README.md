@@ -21,7 +21,7 @@ Here's what I'm promising myself:
 
 - **I'll trust evidence over bullshit.** The Matrix is all about seeing past what looks real. Troubleshooting is the same thing, except the Agents are a missing semicolon and a security group that allows nothing. If I get déjà vu, it means something changed in the system. Probably someone edited prod by hand. Probably me.
 
-- **I'll treat AI as my bitch, not the captain.** Claude through Bedrock, plus my Bash and Python scripts, are like Tank, the operator. Super helpful, loads programs fast, can get me a helicopter pilot manual in seconds. But I've seen all four movies, and I know how it goes when humans hand every decision to the machines. One minute you're asking for a summary, the next you're a battery in a pink goo pod. 
+- **I'll treat AI as my *****, not the captain.** Claude through Bedrock, plus my Bash and Python scripts, are like Tank, the operator. Super helpful, loads programs fast, can get me a helicopter pilot manual in seconds. But I've seen all four movies, and I know how it goes when humans hand every decision to the machines. One minute you're asking for a summary, the next you're a battery in a pink goo pod. 
 
 - **I'll do things the right way.** Version control, pull requests, and changes I can repeat and explain. No more SSHing into a server at 2am to "just fix it real quick." That's how you end up with a server only the Keymaker can get into, and he's been unavailable since the second movie.
 

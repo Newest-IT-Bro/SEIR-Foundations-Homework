@@ -33,4 +33,4 @@ I will look for shortcuts where possible. The Oracle said being the One is like 
 
 Free your mind. Then go read the logs, peace!
 
-**Signed:** Benjamin **Date:** 06/11/2026
+**Signed:** Benjamin / **Date:** 06/11/2026
